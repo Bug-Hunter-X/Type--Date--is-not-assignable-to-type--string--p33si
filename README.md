@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common TypeScript error: type mismatch between a function argument and the corresponding parameter. The error arises when attempting to pass a Date object to a function parameter expecting a string.
